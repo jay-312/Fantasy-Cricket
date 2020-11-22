@@ -8,3 +8,5 @@ Install pyqt5 library thorough Command promptby using the command
 
 -> pip install pyqt5
 
+
+last updated 17 Aug 2020
